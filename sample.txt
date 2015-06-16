@@ -2,3 +2,5 @@ Gitのテスト用のサンプル
 commitのテスト
 commitのテスト２
 commitとpushのテスト
+cloneのテスト
+pullのテスト
