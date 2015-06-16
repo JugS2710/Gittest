@@ -4,3 +4,6 @@ commitのテスト２
 commitとpushのテスト
 cloneのテスト
 pullのテスト
+
+
+checkoutのテスト
